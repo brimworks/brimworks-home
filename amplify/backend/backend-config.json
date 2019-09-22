@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"brimworkshomebfdcf18f": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

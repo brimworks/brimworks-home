@@ -1,0 +1,19 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "brimworks-home-prod-20190913091352-authRole",
+            "UnauthRoleArn": "arn:aws:iam::303389128770:role/brimworks-home-prod-20190913091352-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::303389128770:role/brimworks-home-prod-20190913091352-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "brimworks-home-prod-20190913091352-deployment",
+            "UnauthRoleName": "brimworks-home-prod-20190913091352-unauthRole",
+            "StackName": "brimworks-home-prod-20190913091352",
+            "StackId": "arn:aws:cloudformation:us-east-1:303389128770:stack/brimworks-home-prod-20190913091352/7ac9bad0-d641-11e9-b210-0e7698e0f2e8"
+        },
+        "categories": {
+            "auth": {
+                "brimworkshomebfdcf18f": {}
+            }
+        }
+    }
+}
